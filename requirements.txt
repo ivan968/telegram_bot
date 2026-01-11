@@ -1,0 +1,12 @@
+python-telegram-bot==20.7
+yt-dlp
+```
+
+**Procfile:**
+```
+worker: python bot.py
+```
+
+**runtime.txt:**
+```
+python-3.11.0
